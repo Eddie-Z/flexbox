@@ -12,3 +12,4 @@
 *grid col start/end speicfy width 
 *nested grids are easy to do
 *span 3 is equivalent to 1/4
+*align-items, justify-items. justify-self
