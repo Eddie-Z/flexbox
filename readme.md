@@ -7,3 +7,8 @@
 *Less HTML
 *block level element takes 100% width
 *Use fractions fr
+*rows use function minmax to dictate range of rows
+*inner margin:grid gap
+*grid col start/end speicfy width 
+*nested grids are easy to do
+*span 3 is equivalent to 1/4
